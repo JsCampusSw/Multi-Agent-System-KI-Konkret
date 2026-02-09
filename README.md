@@ -68,8 +68,8 @@ graph TD
 | Komponente | Technologie | Nutzung im Case |
 | :--- | :--- | :--- |
 | **Orchestration** | **LangGraph** | Steuerung des Workflows und State-Management zwischen Agenten. |
-| **LLM (Reasoning)** | GPT-4o / Claude 3.5 | Routing-Entscheidungen und komplexe Datenextraktion. |
-| **LLM (Effizienz)** | Llama 3 (via **Unsloth**) | Demonstration von effizientem Fine-Tuning für spezifische Aufgaben (Sales). |
+| **LLM (Reasoning)** | GPT-oss | Routing-Entscheidungen und komplexe Datenextraktion. |
+| **LLM (Effizienz)** | z.B. Llama 3 (via **Unsloth**) | Demonstration von effizientem Fine-Tuning für spezifische Aufgaben (Sales). |
 | **Vector DB** | ChromaDB | Gedächtnis für Kundenhistorie und Dokumente. |
 | **Frontend** | Streamlit / FastAPI | Visualisierung der Agenten-Entscheidungen für das Publikum. |
 
