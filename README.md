@@ -4,7 +4,7 @@
 ![Event](https://img.shields.io/badge/Event-KI_Konkret-blue)
 ![Host](https://img.shields.io/badge/Location-Campus_Schwarzwald-green)
 ![Status](https://img.shields.io/badge/Demo-Live_Case-orange)
-![Framework](https://img.shields.io/badge/Tech-LangGraph_&_Unsloth-purple)
+![Framework](https://img.shields.io/badge/Tech-Multi_Agent_Systeme-purple)
 
 ## 💡 Über dieses Projekt
 
