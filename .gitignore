@@ -1,0 +1,20 @@
+# --- Deine spezifischen Ausschlüsse ---
+.venv/
+bin/
+data/
+share/
+lib/
+include/
+notebooks/
+
+# --- Sicherheit (NIEMALS entfernen) ---
+.env
+
+# --- Python Standard (sollte man immer ignorieren) ---
+# Diese Ordner entstehen automatisch beim Ausführen von Python
+__pycache__/
+*.pyc
+
+# --- Betriebssystem Müll (Optional, aber empfohlen) ---
+.DS_Store
+Thumbs.db

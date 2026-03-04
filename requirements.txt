@@ -1,0 +1,38 @@
+# Core
+langchain
+langgraph
+langchain-ollama
+langchain-openai
+langchain-anthropic
+chromadb
+pydantic
+openai
+
+# AI & ML (Lokal)
+openai-whisper            # Audio-Transkription (CPU)
+openai-whisper[ffmpeg]    # ffmpeg support
+torch
+tiktoken
+
+# OCR & Computer Vision
+pymupdf                   # PDF → Bild (fitz)
+Pillow                    # Bildverarbeitung
+pytesseract               # OCR Fallback
+
+# Google APIs (Kalender)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Ollama Python Client (für LLaVA Vision)
+ollama
+
+# Web & UI
+fastapi
+uvicorn
+streamlit
+python-multipart
+
+# Utils
+python-dotenv
+pandas
